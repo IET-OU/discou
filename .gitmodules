@@ -1,15 +1,9 @@
-[submodule "discou-services"]
-	path = discou-services
-	url = https://github.com/the-open-university/discou-services.git
 [submodule "discou-alfa"]
 	path = discou-alfa
 	url = https://github.com/the-open-university/discou-alfa.git
 [submodule "discou-bookmarklet"]
 	path = discou-bookmarklet
 	url = https://github.com/the-open-university/discou-bookmarklet.git
-[submodule "discou-legacy"]
-	path = discou-legacy
-	url = https://github.com/the-open-university/discou-legacy.git
 [submodule "discou-indexer"]
 	path = discou-indexer
 	url = https://github.com/the-open-university/discou-indexer.git
