@@ -13,3 +13,6 @@
 [submodule "discou-indexer"]
 	path = discou-indexer
 	url = https://github.com/the-open-university/discou-indexer.git
+[submodule "discou-rest"]
+	path = discou-rest
+	url = https://github.com/the-open-university/discou-rest.git
