@@ -6,7 +6,7 @@ DiscOU - see http://discou.info
 This is the main project fro DiscOU.
 
 - [Build a DiscOU index](https://github.com/the-open-university/discou-indexer)
-- [Run a DiscOU server](https://github.com/the-open-university/discou-indexer)
+- [Run a DiscOU server](https://github.com/the-open-university/discou-rest)
 
 
 #### Maven users
