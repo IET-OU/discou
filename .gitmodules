@@ -10,3 +10,6 @@
 [submodule "discou-rest"]
 	path = discou-rest
 	url = https://github.com/the-open-university/discou-rest.git
+[submodule "discou-indexer-archetype"]
+	path = discou-indexer-archetype
+	url = https://github.com/the-open-university/discou-indexer-archetype.git
