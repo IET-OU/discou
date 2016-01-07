@@ -5,6 +5,9 @@ DiscOU - see http://discou.info
 
 This is the main project fro DiscOU.
 
+- [Build a DiscOU index](https://github.com/the-open-university/discou-indexer)
+- [Run a DiscOU server](https://github.com/the-open-university/discou-indexer)
+
 
 #### Maven users
 This repository includes also a branch with a maven repository for the java artifcats:
